@@ -1,4 +1,4 @@
-<h1 align="center">I'm Ilias</h1>
+<h1 align="center">Hi 👋, I'm Ilias</h1>
 <h3 align="center">An Human-Computer Interaction enthusiast with skillsets in developing Machine Learning Models and Frontend Web Applications</h3>
 
 - 🔭 I’m currently working on **my frontend web development skills**
