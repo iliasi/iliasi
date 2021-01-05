@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilias</h1>
-<h3 align="center">An Human-Computer Interaction enthusiast with skillsets in developing Machine Learning Models and Frontend Web Applications</h3>
+<h3 align="center">A Human-Computer Interaction enthusiast with skillsets in developing Machine Learning Models and Frontend Web Applications</h3>
 
 - 🔭 I’m currently working on **my frontend web development skills**
 
@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [http://ilias.pro/projects](http://ilias.pro/projects)
 
-- 📫 How to reach me **ilias.ibrahim@gmail.com**
+- 📫 You can reach me at **ilias.ibrahim@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://twitter.com/ilias247" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ilias247" height="30" width="40" /></a>
 <a href="https://kaggle.com/iliasone" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="iliasone" height="30" width="40" /></a>
