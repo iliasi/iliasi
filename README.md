@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning and Web Development Projects**
 
-- 👨‍💻 All of my projects are available at [http://ilias.pro/project](http://ilias.pro/project)
+- 👨‍💻 All of my projects are available at [http://](http://)
 
 - 📫 You can reach me at **ilias.ibrahim@gmail.com**
 
