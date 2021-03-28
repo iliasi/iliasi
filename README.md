@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ilias</h1>
-<h3 align="center">A Human-Computer Interaction enthusiast with skillsets in developing Machine Learning Models and Frontend Web Applications</h3>
+<h3 align="center">A Human-Computer Interaction enthusiast with skillsets in developing Machine Learning Models and Software Engineering</h3>
 
 - 🔭 I’m currently working on **my frontend web development skills**
 
-- 🌱 I’m currently learning **Javascript and React**
+- 🌱 I’m currently polishing my skills in **Javascript/React, SQL and Python**
 
-- 👯 I’m looking to collaborate on **Machine Learning and Web Development Projects**
+- 👯 I’m looking to collaborate on **Machine Learning and Software Development Projects**
 
 - 👨‍💻 All of my projects are available at [http://](http://)
 
