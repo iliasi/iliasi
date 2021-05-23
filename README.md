@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **Software Engineering skills**
 
-- 🌱 I am technically fluent in **Javascript/React, SQL and Python**
+- 🌱 I am technically fluent in **Javascript(React and NodeJs), SQL and Python**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Software Development Projects**
 
